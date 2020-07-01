@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4670ad2-b608-4195-b402-48777d5e0424" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c9o9ctjAGWOLcfoKoKTGetMjvL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/input" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.japanese_learning">
+    <configuration name="japanese_learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Games" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/japanese_learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="space_invader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Games" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/space_invader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.japanese_learning" />
+        <item itemvalue="Python.space_invader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4670ad2-b608-4195-b402-48777d5e0424" name="Default Changelist" comment="" />
+      <created>1589950019114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589950019114</updated>
+      <workItem from="1589950020408" duration="15467000" />
+      <workItem from="1590180757724" duration="2043000" />
+      <workItem from="1590519766839" duration="68099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1321" y="514" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590776601405">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1321" y="514" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1590776601405" />
+    <state width="1749" height="505" key="GridCell.Tab.0.bottom" timestamp="1591674279164">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279164" />
+    <state width="1749" height="590" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1591136311623" />
+    <state width="1749" height="505" key="GridCell.Tab.0.center" timestamp="1591674279163">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279163" />
+    <state width="1749" height="590" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1591136311622" />
+    <state width="1749" height="505" key="GridCell.Tab.0.left" timestamp="1591674279162">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279162" />
+    <state width="1749" height="590" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1591136311621" />
+    <state width="1749" height="505" key="GridCell.Tab.0.right" timestamp="1591674279163">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279163" />
+    <state width="1749" height="590" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1591136311622" />
+    <state width="1749" height="505" key="GridCell.Tab.1.bottom" timestamp="1591674279166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279166" />
+    <state width="1749" height="505" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1590779125937" />
+    <state width="1749" height="505" key="GridCell.Tab.1.bottom/0.23.2560.1335@0.23.2560.1335" timestamp="1590779075144" />
+    <state width="1749" height="505" key="GridCell.Tab.1.center" timestamp="1591674279165">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279165" />
+    <state width="1749" height="505" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1590779125936" />
+    <state width="1749" height="505" key="GridCell.Tab.1.center/0.23.2560.1335@0.23.2560.1335" timestamp="1590779075141" />
+    <state width="1749" height="505" key="GridCell.Tab.1.left" timestamp="1591674279164">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279164" />
+    <state width="1749" height="505" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1590779125935" />
+    <state width="1749" height="505" key="GridCell.Tab.1.left/0.23.2560.1335@0.23.2560.1335" timestamp="1590779075141" />
+    <state width="1749" height="505" key="GridCell.Tab.1.right" timestamp="1591674279166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1749" height="505" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591674279166" />
+    <state width="1749" height="505" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1590779125936" />
+    <state width="1749" height="505" key="GridCell.Tab.1.right/0.23.2560.1335@0.23.2560.1335" timestamp="1590779075143" />
+    <state x="343" y="104" key="SettingsEditor" timestamp="1590521713749">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="225" y="76" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1589950899371" />
+    <state x="343" y="104" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1590521713749" />
+    <state x="884" y="514" key="com.intellij.ide.util.TipDialog" timestamp="1593635433824">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="883" y="514" key="com.intellij.ide.util.TipDialog/-1680.166.1680.1050/0.0.2560.1440@0.0.2560.1440" timestamp="1590180756671" />
+    <state x="884" y="514" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1593635433824" />
+    <state x="884" y="499" key="com.intellij.ide.util.TipDialog/0.23.2560.1333@0.23.2560.1333" timestamp="1590520185646" />
+    <state x="1035" y="404" width="1328" height="806" key="dock-window-1" timestamp="1590529849934">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1035" y="404" width="1328" height="806" key="dock-window-1/0.0.2560.1440@0.0.2560.1440" timestamp="1590529849934" />
+    <state x="1240" y="324" width="838" height="1032" key="search.everywhere.popup" timestamp="1590797770534">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1240" y="324" width="838" height="1032" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1590797770534" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Games$japanese_learning.coverage" NAME="japanese_learning Coverage Results" MODIFIED="1591136311606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Games$space_invader.coverage" NAME="space_invader Coverage Results" MODIFIED="1590022914444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

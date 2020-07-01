@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Games.iml" filepath="$PROJECT_DIR$/.idea/Games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hiragana/.idea/Hiragana.iml" filepath="$PROJECT_DIR$/Hiragana/.idea/Hiragana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Indie_Flower/.idea/Indie_Flower.iml" filepath="$PROJECT_DIR$/Indie_Flower/.idea/Indie_Flower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Space Invader/.idea/assets.iml" filepath="$PROJECT_DIR$/Space Invader/.idea/assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/background music/.idea/background music.iml" filepath="$PROJECT_DIR$/background music/.idea/background music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/icons/.idea/icons.iml" filepath="$PROJECT_DIR$/icons/.idea/icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pygame-text-input-master/.idea/pygame-text-input-master.iml" filepath="$PROJECT_DIR$/pygame-text-input-master/.idea/pygame-text-input-master.iml" />
+    </modules>
+  </component>
+</project>
